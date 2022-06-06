@@ -505,3 +505,4 @@ This project was made possible by the outstanding previous published open-source
 The software PyPupilEXT is licensed under [GNU General Public License v.3.0.](https://github.com/openPupil/Open-PupilEXT/blob/main/Misc/LICENSE), Copyright (c) 2021 Technical University of Darmstadt. The pupil detection functionalities of PyPupilEXT are for academic and **non-commercial** use only. Please note that third-party libraries used in PyPupilEXT may be distributed under other open-source licenses. Please read the above section about the open source projects inside PyPupilEXT.
 
 This program is distributed in the hope that it will be useful, but without any warranty, without even the implied warranty of fitness for a particular purpose.
+# PyPupilExt
